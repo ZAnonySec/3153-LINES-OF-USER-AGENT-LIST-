@@ -1,19 +1,4 @@
-# 3153-LINES-OF-USER-AGENT-LIST-
-HERE IS 3153 LINES OF DIFFRENT USERAGENT
-
-
-
-
-
-
-# ----------------------------------------------------------------------------------------------
-# Saphyra - DDoS Tool
-#
-# The DDoS Protocol is the most massive type of attack
-# This tool can tangodown nasa and more gov websites
-headers_useragents.append('Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729)')
-	headers_useragents.append('Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Win64; x64; Trident/4.0)')
-	headers_useragents.append('Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SV1; .NET CLR 2.0.50727; InfoPath.2)')
+headers_useragents.append('Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SV1; .NET CLR 2.0.50727; InfoPath.2)')
 	headers_useragents.append('Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)')
 	headers_useragents.append('Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)')
 	headers_useragents.append('Opera/9.80 (Windows NT 5.2; U; ru) Presto/2.5.22 Version/10.51')
